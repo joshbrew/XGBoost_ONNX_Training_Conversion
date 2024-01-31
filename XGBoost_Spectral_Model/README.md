@@ -1,6 +1,6 @@
 ## ONNX XGBoost Jupyter Notebook
 
-This XGBoost model is design to classify CSVs, labeled by folder. Open Spectral_XGBoost_Training.ipynb in your preferred notebook environment (we use plain VSCode) and follow the instructions to install dependencies. You may also find the model hosted on Google Colab [here](https://colab.research.google.com/drive/1rPobgC9eD59c4nIeJK2LpJPMhzNRXCuP?usp=sharing)
+This XGBoost model is design to classify CSVs, labeled by folder. Open Spectral_XGBoost_Training.ipynb in your preferred notebook environment (we use plain VSCode) and follow the instructions to install dependencies. You may also find the model hosted on Google Colab [here](https://colab.research.google.com/drive/1BsWVX538-NX2AXsRK8T8oLn9xrZ_zxeO?usp=drive_link)
 
 After, you can use the Image_XGBoost_Testing.ipynb to make sure it works, and otherwise you may export the .onnx model to your applications generically.
 
