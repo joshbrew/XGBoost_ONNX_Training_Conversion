@@ -13,3 +13,9 @@ More info forthcoming.
 
 
 
+## Credits
+
+- .ipynb notebooks by Mateusz Stankiewicz  ([flyps.io](https://flyps.io)) and Joshua Brewster
+- datasets by Joshua Brewster (WIP)
+
+
