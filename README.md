@@ -1,5 +1,5 @@
 # XGBoost_ONNX_Notebooks
-Image and CSV classification samples using ONNX with (bad) sample data. This demonstrates the powerful, minimal [XGBoost](https://xgboost.readthedocs.io/en/stable/) algorithm meant for portability while retaining competitive classification accuracy.
+Image and CSV classification samples using ONNX with sample data. This demonstrates the powerful, minimal [XGBoost](https://xgboost.readthedocs.io/en/stable/) algorithm meant for portability while retaining competitive classification accuracy.
 
 These are beginner-friendly python notebooks with plenty of instructions for creating ONNX models that can be loaded into your own software applications to get the power of offline machine learning into your phone or browser. You can see our results in action, running in milliseconds or even nanoseconds on WebGPU or WebGL at: [https://github.com/joshbrew/cameraId-wonnx-wasm](https://github.com/joshbrew/cameraId-wonnx-wasm)
 
